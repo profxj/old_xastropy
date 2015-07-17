@@ -6,9 +6,9 @@ It also assumes you will use Python 2.7
 1.  Install Python with Anaaconda
 
 2.  Install xastropy with git from github
-  git clone https://github.com/profxj/xastropy.git
+  git clone https://github.com/xastropy/xastropy.git
   cd xastropy
-  sudo python setup.py develop
+  sudo python setup.py develop [or install]
   
 3. Update astropy
 
